@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cisco-ai-defense.github.io/">
-    <img alt="Cisco AI Defense" src="https://raw.githubusercontent.com/cisco-ai-defense/.github/main/assets/cisco-logo.png" width="400">
+    <img alt="Cisco AI Defense" src="https://raw.githubusercontent.com/cisco-ai-defense/.github/main/assets/cisco-logo.png" width="200">
   </a>
 </p>
 
@@ -15,6 +15,19 @@
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/cisco-ai-defense/defenseclaw"><img src="https://img.shields.io/github/stars/cisco-ai-defense/defenseclaw?style=for-the-badge&logo=github&label=DefenseClaw&color=58a6ff" alt="DefenseClaw stars"></a>&nbsp;
+  <a href="https://github.com/cisco-ai-defense/mcp-scanner"><img src="https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner?style=for-the-badge&logo=github&label=MCP%20Scanner&color=58a6ff" alt="MCP Scanner stars"></a>&nbsp;
+  <a href="https://github.com/cisco-ai-defense/skill-scanner"><img src="https://img.shields.io/github/stars/cisco-ai-defense/skill-scanner?style=for-the-badge&logo=github&label=Skill%20Scanner&color=58a6ff" alt="Skill Scanner stars"></a>&nbsp;
+  <a href="https://github.com/cisco-ai-defense/a2a-scanner"><img src="https://img.shields.io/github/stars/cisco-ai-defense/a2a-scanner?style=for-the-badge&logo=github&label=A2A%20Scanner&color=58a6ff" alt="A2A Scanner stars"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/cisco-ai-defense/aibom"><img src="https://img.shields.io/github/stars/cisco-ai-defense/aibom?style=for-the-badge&logo=github&label=AI%20BOM&color=58a6ff" alt="AI BOM stars"></a>&nbsp;
+  <a href="https://github.com/cisco-ai-defense/securebert2"><img src="https://img.shields.io/github/stars/cisco-ai-defense/securebert2?style=for-the-badge&logo=github&label=SecureBERT%202&color=58a6ff" alt="SecureBERT 2 stars"></a>&nbsp;
+  <a href="https://github.com/cisco-ai-defense/pickle-fuzzer"><img src="https://img.shields.io/github/stars/cisco-ai-defense/pickle-fuzzer?style=for-the-badge&logo=github&label=Pickle%20Fuzzer&color=58a6ff" alt="Pickle Fuzzer stars"></a>&nbsp;
+  <a href="https://github.com/cisco-ai-defense/adversarial-hubness-detector"><img src="https://img.shields.io/github/stars/cisco-ai-defense/adversarial-hubness-detector?style=for-the-badge&logo=github&label=Hubness%20Detector&color=58a6ff" alt="Adversarial Hubness Detector stars"></a>
+</p>
 
 ## About
 
@@ -95,21 +108,6 @@ For detailed setup instructions, visit the [documentation](https://cisco-ai-defe
 - **Blog** — Read our latest research and updates on the [Cisco AI Security Blog](https://blogs.cisco.com/tag/ai-security-2)
 - **Contributing** — We welcome contributions across all projects. Check individual repo `CONTRIBUTING.md` files for guidelines
 - **Security Issues** — Please report vulnerabilities responsibly through the process described in each repo's `SECURITY.md`
-
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/cisco-ai-defense/defenseclaw"><img src="https://img.shields.io/github/stars/cisco-ai-defense/defenseclaw?style=for-the-badge&logo=github&label=DefenseClaw&color=58a6ff" alt="DefenseClaw stars"></a>&nbsp;
-  <a href="https://github.com/cisco-ai-defense/mcp-scanner"><img src="https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner?style=for-the-badge&logo=github&label=MCP%20Scanner&color=58a6ff" alt="MCP Scanner stars"></a>&nbsp;
-  <a href="https://github.com/cisco-ai-defense/skill-scanner"><img src="https://img.shields.io/github/stars/cisco-ai-defense/skill-scanner?style=for-the-badge&logo=github&label=Skill%20Scanner&color=58a6ff" alt="Skill Scanner stars"></a>&nbsp;
-  <a href="https://github.com/cisco-ai-defense/a2a-scanner"><img src="https://img.shields.io/github/stars/cisco-ai-defense/a2a-scanner?style=for-the-badge&logo=github&label=A2A%20Scanner&color=58a6ff" alt="A2A Scanner stars"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/cisco-ai-defense/aibom"><img src="https://img.shields.io/github/stars/cisco-ai-defense/aibom?style=for-the-badge&logo=github&label=AI%20BOM&color=58a6ff" alt="AI BOM stars"></a>&nbsp;
-  <a href="https://github.com/cisco-ai-defense/securebert2"><img src="https://img.shields.io/github/stars/cisco-ai-defense/securebert2?style=for-the-badge&logo=github&label=SecureBERT%202&color=58a6ff" alt="SecureBERT 2 stars"></a>&nbsp;
-  <a href="https://github.com/cisco-ai-defense/pickle-fuzzer"><img src="https://img.shields.io/github/stars/cisco-ai-defense/pickle-fuzzer?style=for-the-badge&logo=github&label=Pickle%20Fuzzer&color=58a6ff" alt="Pickle Fuzzer stars"></a>&nbsp;
-  <a href="https://github.com/cisco-ai-defense/adversarial-hubness-detector"><img src="https://img.shields.io/github/stars/cisco-ai-defense/adversarial-hubness-detector?style=for-the-badge&logo=github&label=Hubness%20Detector&color=58a6ff" alt="Adversarial Hubness Detector stars"></a>
-</p>
 
 ## Enterprise
 
