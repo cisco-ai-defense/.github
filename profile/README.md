@@ -82,26 +82,6 @@ Selected publications from the team:
 - [SecureBERT 2](https://arxiv.org/abs/2510.00240) — Domain-adapted language model for cybersecurity
 - [Integrated AI Security and Safety Framework](https://arxiv.org/abs/2512.12921) — Unified AI threat taxonomy
 
-## Getting Started
-
-Most of our tools are Python-based and can be installed directly:
-
-```bash
-# Scan an MCP server for threats
-pip install mcp-scanner
-mcp-scanner scan
-
-# Generate an AI Bill of Materials
-pip install aibom
-aibom scan ./your-project
-
-# Scan agent skills for malicious patterns
-pip install skill-scanner
-skill-scanner scan ./skills-directory
-```
-
-For detailed setup instructions, visit the [documentation](https://cisco-ai-defense.github.io/docs) for each project.
-
 ## Community
 
 - **Discord** — Join the [Cisco AI Defense Discord](https://discord.gg/cisco-ai-defense) for discussions, support, and announcements
@@ -114,6 +94,16 @@ For detailed setup instructions, visit the [documentation](https://cisco-ai-defe
 Looking for enterprise-grade AI security? [Cisco AI Defense](https://www.cisco.com/site/us/en/products/security/ai-defense/index.html) provides comprehensive AI security for production deployments with centralized policy management, real-time monitoring, and enterprise integrations.
 
 ---
+
+<p align="center">
+  <a href="https://star-history.com/#cisco-ai-defense/defenseclaw&cisco-ai-defense/mcp-scanner&cisco-ai-defense/skill-scanner&cisco-ai-defense/a2a-scanner&cisco-ai-defense/aibom&cisco-ai-defense/securebert2&cisco-ai-defense/pickle-fuzzer&cisco-ai-defense/adversarial-hubness-detector&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=cisco-ai-defense/defenseclaw,cisco-ai-defense/mcp-scanner,cisco-ai-defense/skill-scanner,cisco-ai-defense/a2a-scanner,cisco-ai-defense/aibom,cisco-ai-defense/securebert2,cisco-ai-defense/pickle-fuzzer,cisco-ai-defense/adversarial-hubness-detector&type=Date&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=cisco-ai-defense/defenseclaw,cisco-ai-defense/mcp-scanner,cisco-ai-defense/skill-scanner,cisco-ai-defense/a2a-scanner,cisco-ai-defense/aibom,cisco-ai-defense/securebert2,cisco-ai-defense/pickle-fuzzer,cisco-ai-defense/adversarial-hubness-detector&type=Date">
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=cisco-ai-defense/defenseclaw,cisco-ai-defense/mcp-scanner,cisco-ai-defense/skill-scanner,cisco-ai-defense/a2a-scanner,cisco-ai-defense/aibom,cisco-ai-defense/securebert2,cisco-ai-defense/pickle-fuzzer,cisco-ai-defense/adversarial-hubness-detector&type=Date" width="720">
+    </picture>
+  </a>
+</p>
 
 <p align="center">
   <sub>Built by the <a href="https://cisco-ai-defense.github.io/">Cisco AI Defense</a> team for the AI security community.</sub>
