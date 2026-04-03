@@ -95,15 +95,13 @@ Looking for enterprise-grade AI security? [Cisco AI Defense](https://www.cisco.c
 
 ---
 
-<p align="center">
-  <a href="https://star-history.com/#cisco-ai-defense/defenseclaw&cisco-ai-defense/mcp-scanner&cisco-ai-defense/skill-scanner&cisco-ai-defense/a2a-scanner&cisco-ai-defense/aibom&cisco-ai-defense/securebert2&cisco-ai-defense/pickle-fuzzer&cisco-ai-defense/adversarial-hubness-detector&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=cisco-ai-defense/defenseclaw,cisco-ai-defense/mcp-scanner,cisco-ai-defense/skill-scanner,cisco-ai-defense/a2a-scanner,cisco-ai-defense/aibom,cisco-ai-defense/securebert2,cisco-ai-defense/pickle-fuzzer,cisco-ai-defense/adversarial-hubness-detector&type=Date&theme=dark#v2">
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=cisco-ai-defense/defenseclaw,cisco-ai-defense/mcp-scanner,cisco-ai-defense/skill-scanner,cisco-ai-defense/a2a-scanner,cisco-ai-defense/aibom,cisco-ai-defense/securebert2,cisco-ai-defense/pickle-fuzzer,cisco-ai-defense/adversarial-hubness-detector&type=Date#v2">
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=cisco-ai-defense/defenseclaw,cisco-ai-defense/mcp-scanner,cisco-ai-defense/skill-scanner,cisco-ai-defense/a2a-scanner,cisco-ai-defense/aibom,cisco-ai-defense/securebert2,cisco-ai-defense/pickle-fuzzer,cisco-ai-defense/adversarial-hubness-detector&type=Date#v2" width="720">
-    </picture>
-  </a>
-</p>
+<a href="https://www.star-history.com/?repos=cisco-ai-defense%2Fdefenseclaw%2Ccisco-ai-defense%2Fmcp-scanner%2Ccisco-ai-defense%2Fskill-scanner%2Ccisco-ai-defense%2Fa2a-scanner%2Ccisco-ai-defense%2Faibom%2Ccisco-ai-defense%2Fsecurebert2%2Ccisco-ai-defense%2Fpickle-fuzzer%2Ccisco-ai-defense%2Fadversarial-hubness-detector&type=timeline&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=cisco-ai-defense/defenseclaw%2Ccisco-ai-defense/mcp-scanner%2Ccisco-ai-defense/skill-scanner%2Ccisco-ai-defense/a2a-scanner%2Ccisco-ai-defense/aibom%2Ccisco-ai-defense/securebert2%2Ccisco-ai-defense/pickle-fuzzer%2Ccisco-ai-defense/adversarial-hubness-detector&type=timeline&theme=dark&logscale&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=cisco-ai-defense/defenseclaw%2Ccisco-ai-defense/mcp-scanner%2Ccisco-ai-defense/skill-scanner%2Ccisco-ai-defense/a2a-scanner%2Ccisco-ai-defense/aibom%2Ccisco-ai-defense/securebert2%2Ccisco-ai-defense/pickle-fuzzer%2Ccisco-ai-defense/adversarial-hubness-detector&type=timeline&logscale&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=cisco-ai-defense/defenseclaw%2Ccisco-ai-defense/mcp-scanner%2Ccisco-ai-defense/skill-scanner%2Ccisco-ai-defense/a2a-scanner%2Ccisco-ai-defense/aibom%2Ccisco-ai-defense/securebert2%2Ccisco-ai-defense/pickle-fuzzer%2Ccisco-ai-defense/adversarial-hubness-detector&type=timeline&logscale&legend=bottom-right" />
+ </picture>
+</a>
 
 <p align="center">
   <sub>Built by the <a href="https://cisco-ai-defense.github.io/">Cisco AI Defense</a> team for the AI security community.</sub>
