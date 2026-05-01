@@ -24,6 +24,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/cisco-ai-defense/aibom"><img src="https://img.shields.io/github/stars/cisco-ai-defense/aibom?style=for-the-badge&logo=github&label=AI%20BOM&color=58a6ff" alt="AI BOM stars"></a>&nbsp;
+  <a href="https://github.com/cisco-ai-defense/model-provenance-kit"><img src="https://img.shields.io/github/stars/cisco-ai-defense/model-provenance-kit?style=for-the-badge&logo=github&label=Model%20Provenance%20Kit&color=58a6ff" alt="Model Provenance Kit stars"></a>&nbsp;
   <a href="https://github.com/cisco-ai-defense/securebert2"><img src="https://img.shields.io/github/stars/cisco-ai-defense/securebert2?style=for-the-badge&logo=github&label=SecureBERT%202&color=58a6ff" alt="SecureBERT 2 stars"></a>&nbsp;
   <a href="https://github.com/cisco-ai-defense/pickle-fuzzer"><img src="https://img.shields.io/github/stars/cisco-ai-defense/pickle-fuzzer?style=for-the-badge&logo=github&label=Pickle%20Fuzzer&color=58a6ff" alt="Pickle Fuzzer stars"></a>&nbsp;
   <a href="https://github.com/cisco-ai-defense/adversarial-hubness-detector"><img src="https://img.shields.io/github/stars/cisco-ai-defense/adversarial-hubness-detector?style=for-the-badge&logo=github&label=Hubness%20Detector&color=58a6ff" alt="Adversarial Hubness Detector stars"></a>
@@ -51,6 +52,7 @@ Our work is guided by the [Integrated AI Security and Safety Framework](https://
 | Project | Description | Links |
 |:--------|:------------|:------|
 | **[AI BOM](https://github.com/cisco-ai-defense/aibom)** | Generate AI Bill of Materials through automated source code scanning and dependency analysis. | [Docs](https://cisco-ai-defense.github.io/docs/aibom) |
+| **[Model Provenance Kit](https://github.com/cisco-ai-defense/model-provenance-kit)** | Detect whether a model derives from a known base model family by comparing multi-signal fingerprints across weights, tokenizers, and architecture metadata. | [Docs](https://cisco-ai-defense.github.io/docs/model-provenance-kit) |
 | **[Pickle Fuzzer](https://github.com/cisco-ai-defense/pickle-fuzzer)** | Structure-aware test case generator for Python pickle parsers and validators. Generates valid pickle bytecode for fuzzing. | [Docs](https://cisco-ai-defense.github.io/docs/pickle-fuzzer) |
 | **[Adversarial Hubness Detector](https://github.com/cisco-ai-defense/adversarial-hubness-detector)** | Audit vector indices and embeddings to detect adversarial hubs in RAG and vector database systems. | [Paper](https://arxiv.org/abs/2412.14113) |
 
@@ -72,6 +74,8 @@ Our work is guided by the [Integrated AI Security and Safety Framework](https://
 The **Integrated AI Security and Safety Framework** provides a lifecycle-aware taxonomy that maps AI threats across modalities, agents, pipelines, and the broader ecosystem. It serves as the foundation for all Cisco AI Defense tooling and has been operationalized through the [AIUC-1 standard](https://blogs.cisco.com/ai/aiuc-1-operationalizes-ciscos-ai-security-framework).
 
 > [Read the paper](https://arxiv.org/abs/2512.12921) &nbsp;&middot;&nbsp; [Explore the taxonomy](https://learn-cloudsecurity.cisco.com/ai-security-framework)
+
+The **[Model Provenance Constitution](https://github.com/cisco-ai-defense/model-provenance-kit/blob/main/docs/constitution/model_provenance_constitution.md)** formally defines what constitutes a provenance relationship between ML models — covering weight derivation, distillation, merging, and mechanical transforms — and establishes the boundary conditions and decision logic used by [Model Provenance Kit](https://github.com/cisco-ai-defense/model-provenance-kit).
 
 ## Research
 
@@ -95,11 +99,11 @@ Looking for enterprise-grade AI security? [Cisco AI Defense](https://www.cisco.c
 
 ---
 
-<a href="https://www.star-history.com/?repos=cisco-ai-defense%2Fdefenseclaw%2Ccisco-ai-defense%2Fmcp-scanner%2Ccisco-ai-defense%2Fskill-scanner%2Ccisco-ai-defense%2Fa2a-scanner%2Ccisco-ai-defense%2Faibom%2Ccisco-ai-defense%2Fsecurebert2%2Ccisco-ai-defense%2Fpickle-fuzzer%2Ccisco-ai-defense%2Fadversarial-hubness-detector&type=timeline&logscale=&legend=top-left">
+<a href="https://www.star-history.com/?repos=cisco-ai-defense%2Fdefenseclaw%2Ccisco-ai-defense%2Fmcp-scanner%2Ccisco-ai-defense%2Fskill-scanner%2Ccisco-ai-defense%2Fa2a-scanner%2Ccisco-ai-defense%2Faibom%2Ccisco-ai-defense%2Fmodel-provenance-kit%2Ccisco-ai-defense%2Fsecurebert2%2Ccisco-ai-defense%2Fpickle-fuzzer%2Ccisco-ai-defense%2Fadversarial-hubness-detector&type=timeline&logscale=&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=cisco-ai-defense/defenseclaw%2Ccisco-ai-defense/mcp-scanner%2Ccisco-ai-defense/skill-scanner%2Ccisco-ai-defense/a2a-scanner%2Ccisco-ai-defense/aibom%2Ccisco-ai-defense/securebert2%2Ccisco-ai-defense/pickle-fuzzer%2Ccisco-ai-defense/adversarial-hubness-detector&type=timeline&theme=dark&logscale&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=cisco-ai-defense/defenseclaw%2Ccisco-ai-defense/mcp-scanner%2Ccisco-ai-defense/skill-scanner%2Ccisco-ai-defense/a2a-scanner%2Ccisco-ai-defense/aibom%2Ccisco-ai-defense/securebert2%2Ccisco-ai-defense/pickle-fuzzer%2Ccisco-ai-defense/adversarial-hubness-detector&type=timeline&logscale&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=cisco-ai-defense/defenseclaw%2Ccisco-ai-defense/mcp-scanner%2Ccisco-ai-defense/skill-scanner%2Ccisco-ai-defense/a2a-scanner%2Ccisco-ai-defense/aibom%2Ccisco-ai-defense/securebert2%2Ccisco-ai-defense/pickle-fuzzer%2Ccisco-ai-defense/adversarial-hubness-detector&type=timeline&logscale&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=cisco-ai-defense/defenseclaw%2Ccisco-ai-defense/mcp-scanner%2Ccisco-ai-defense/skill-scanner%2Ccisco-ai-defense/a2a-scanner%2Ccisco-ai-defense/aibom%2Ccisco-ai-defense/model-provenance-kit%2Ccisco-ai-defense/securebert2%2Ccisco-ai-defense/pickle-fuzzer%2Ccisco-ai-defense/adversarial-hubness-detector&type=timeline&theme=dark&logscale&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=cisco-ai-defense/defenseclaw%2Ccisco-ai-defense/mcp-scanner%2Ccisco-ai-defense/skill-scanner%2Ccisco-ai-defense/a2a-scanner%2Ccisco-ai-defense/aibom%2Ccisco-ai-defense/model-provenance-kit%2Ccisco-ai-defense/securebert2%2Ccisco-ai-defense/pickle-fuzzer%2Ccisco-ai-defense/adversarial-hubness-detector&type=timeline&logscale&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=cisco-ai-defense/defenseclaw%2Ccisco-ai-defense/mcp-scanner%2Ccisco-ai-defense/skill-scanner%2Ccisco-ai-defense/a2a-scanner%2Ccisco-ai-defense/aibom%2Ccisco-ai-defense/model-provenance-kit%2Ccisco-ai-defense/securebert2%2Ccisco-ai-defense/pickle-fuzzer%2Ccisco-ai-defense/adversarial-hubness-detector&type=timeline&logscale&legend=bottom-right" />
  </picture>
 </a>
 
