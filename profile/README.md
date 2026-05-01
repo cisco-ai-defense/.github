@@ -75,7 +75,7 @@ The **Integrated AI Security and Safety Framework** provides a lifecycle-aware t
 
 > [Read the paper](https://arxiv.org/abs/2512.12921) &nbsp;&middot;&nbsp; [Explore the taxonomy](https://learn-cloudsecurity.cisco.com/ai-security-framework)
 
-The **[Model Provenance Constitution](https://github.com/cisco-ai-defense/model-provenance-kit/blob/main/docs/constitution/model_provenance_constitution.md)** formally defines what constitutes a provenance relationship between ML models — covering weight derivation, distillation, merging, and mechanical transforms — and establishes the boundary conditions and decision logic used by [Model Provenance Kit](https://github.com/cisco-ai-defense/model-provenance-kit).
+The **[Model Provenance Constitution](https://github.com/cisco-ai-defense/model-provenance-kit/blob/main/docs/constitution/model_provenance_constitution.md)** formally defines what constitutes a provenance relationship between ML models covering weight derivation, distillation, merging, and mechanical transforms and establishes the boundary conditions and decision logic used by [Model Provenance Kit](https://github.com/cisco-ai-defense/model-provenance-kit).
 
 ## Research
 
